@@ -2,7 +2,6 @@
 - 👀 I’m interested in solving interesting problems via technology.
 - 👨‍💻 Java, Javascript and Go are the languages I generally choose to work with.
 - 🌱 I’m currently learning go, distributed systems and cloud computing
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via keybase (lookup id : djikstra)
 
 <!---
