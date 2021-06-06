@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weshalll
 - 👀 I’m interested in solving interesting problems via technology.
-- 👨‍💻 Java, Javascript and Go are the languages I generally choose to work with.
+- 👨‍💻 Java, Javascript and Go are the languages I generally choose (based on problem statement and language's strong suites).
 - 🌱 I’m currently learning go, distributed systems and cloud computing
 - 📫 You can reach me via keybase (lookup id : djikstra)
 
